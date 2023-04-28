@@ -1,12 +1,36 @@
 * {
-    background-color: #161616;
-    color: rgb(249, 249, 252);
-    font-size: xx-large;
     text-align: center;
     vertical-align: middle;
+    font-family:Arial, Helvetica, sans-serif
 }
-footer {
-    background-color: #358cd3;
-    color: rgb(4, 0, 8);
-    font-size:large;
+body{
+    background-color: #000000;
+    color: rgb(249, 249, 252);
+    font-size: x-large;
+}
+
+.titulo{
+    color:rgb(233, 125, 1);
+}
+.texto-azul{
+    color:rgb(7, 121, 197) ;
+}
+footer{
+    background-color: rgb(233, 125, 1);
+    color:rgb(7, 121, 197);
+    font-size: large;
+}
+.tamanho{
+    font-size: xx-large;
+    color:rgb(252, 2, 2)
+}
+.wallpaper{
+    background-size: cover;
+    /* quero definir como plano de fundo */
+}
+.mario{
+/* quero expandir até o limite de tela */
+}
+.sabores{
+    /* quero arredondar as pontas */
 }
